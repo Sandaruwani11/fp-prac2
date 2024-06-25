@@ -1,6 +1,6 @@
 object EvaluateExpressions {
   def main(args: Array[String]): Unit = {
-    // Declare and initialize variables
+    
     var a = 2
     var b = 3
     var c = 4
